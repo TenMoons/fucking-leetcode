@@ -2,16 +2,40 @@ package LeetCode;
 
 public class Solution_53 {
     public int maxSubArray(int[] nums) {
+
+        // 分治法
         if(nums.length == 1)
             return nums[0];
         int maxSum = Integer.MIN_VALUE, thisSum = 0;
-        for(int i = 0; i< nums.length; i++){
-            thisSum += nums[i];
-            if(thisSum > maxSum)
+        for (int num : nums) {
+            thisSum += num;
+            if (thisSum > maxSum)
                 maxSum = thisSum;
-            if(thisSum < 0)
+            if (thisSum < 0)
                 thisSum = 0;
         }
         return maxSum;
+    }
+
+    public int maxSubArray2(int[] nums){
+        // 动态规划解法
+        int res = nums[0];
+        int subSum = 0;
+        for(int num : nums) {
+            if(subSum > 0) {
+                subSum += num;
+            } else {
+                subSum = num;  // 开始另一个子列和
+            }
+            res = Math.max(res, subSum);
+        }
+        return res;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{
+                -2,1,-3,4,-1,2,1,-5,4
+        };
+        System.out.println(new Solution_53().maxSubArray2(nums));
     }
 }
