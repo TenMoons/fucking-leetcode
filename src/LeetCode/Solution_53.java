@@ -9,10 +9,8 @@ public class Solution_53 {
         int maxSum = Integer.MIN_VALUE, thisSum = 0;
         for (int num : nums) {
             thisSum += num;
-            if (thisSum > maxSum)
-                maxSum = thisSum;
-            if (thisSum < 0)
-                thisSum = 0;
+            maxSum = Math.max(thisSum, maxSum);
+            thisSum = Math.max(thisSum, 0);
         }
         return maxSum;
     }
