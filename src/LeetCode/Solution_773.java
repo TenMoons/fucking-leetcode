@@ -7,7 +7,7 @@ import java.util.Queue;
 
 /**
  * 773.滑动谜题
- * bfs 最短路径长度
+ * bfs 最短路径长度 O(n!)
  */
 
 public class Solution_773 {
