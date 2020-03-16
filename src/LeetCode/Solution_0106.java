@@ -24,6 +24,7 @@ public class Solution_0106 {
         sb.append(S.charAt(slow));
         sb.append(fast - slow);
 
+        // 和原串比较长度
         String res = sb.toString();
         return res.length() < S.length() ? res : S;
     }
