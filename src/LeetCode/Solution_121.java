@@ -10,30 +10,18 @@ package LeetCode;
 
 public class Solution_121 {
     public int maxProfit(int[] prices) {
-        if (prices.length == 0 || prices.length == 1)
-            return 0;
-        int head = 0;
-        int tail = prices.length - 1;
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
-        while(head <= tail){
-            if (prices[head] < min){
-                min = prices[head];
-                head++;
-            }
-            if (prices[tail] > max){
-                max = prices[tail];
-                tail--;
-            }
+        int dp_0 = 0, dp_1 = Integer.MIN_VALUE;  // 0表示不持有股票，1表示持有
+        for (int i = 0; i < prices.length; i++){
+            // 若第i天不持有股票，则
+            // 1. i-1天也没有持有股票
+            // 2. i-1天持有，第i天卖出
+            dp_0 = Math.max(dp_0, dp_1 + prices[i]);
+            // 若第i天持有股票，则
+            // 1. i-1天也持有股票
+            // 2. i-1天不持有，第i天买入，由于只能交易1次，故买入前一定利润是0
+            dp_1 = Math.max(dp_1, -prices[i]);
         }
-        return Math.max(max - min, 0);
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution_121().maxProfit(new int[]{7, 1, 5, 3, 6, 4}));  // 5
-        System.out.println(new Solution_121().maxProfit(new int[]{7, 6, 4, 3, 1}));  // 0
-        System.out.println(new Solution_121().maxProfit(new int[]{1}));  // 0
-        System.out.println(new Solution_121().maxProfit(new int[]{}));  // 0
-        System.out.println(new Solution_121().maxProfit(new int[]{1, 4, 2}));  // 3
+        // 最后一天必须不持有股票才满足
+        return dp_0;
     }
 }
