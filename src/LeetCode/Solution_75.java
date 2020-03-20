@@ -1,12 +1,12 @@
 package LeetCode;
 
 /**
- * 77.颜色分类
+ * 75.颜色分类
  * 模板：荷兰国旗问题
  * 关键思路：快速排序
  */
 
-public class Solution_77 {
+public class Solution_75 {
     public void sortColors(int[] nums) {
         partition(nums, 0, nums.length - 1, 1);
     }
