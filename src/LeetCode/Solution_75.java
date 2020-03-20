@@ -18,12 +18,12 @@ public class Solution_75 {
         int cur = left;
         while(cur < more){
             if(arr[cur] < k){
-                swap(arr, ++less, cur++);
+                swap(arr, ++less, cur++);  // 交换arr[less + 1]和arr[cur]
             }
             else if(arr[cur] > k){
-                swap(arr, --more, cur);
+                swap(arr, --more, cur);  // 交换arr[more - 1]和arr[cur]
             }
-            else{
+            else{  // == k
                 cur++;
             }
         }
@@ -33,5 +33,13 @@ public class Solution_75 {
         int temp = arr[left];
         arr[left] = arr[right];
         arr[right] = temp;
+    }
+
+    public static void main(String[] args) {
+        new Solution_75().sortColors(
+                new int[]{
+                        2, 0, 2, 1, 1, 0
+                }
+        );
     }
 }
