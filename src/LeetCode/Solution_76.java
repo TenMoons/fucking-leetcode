@@ -22,6 +22,7 @@ public class Solution_76 {
         while (right < s.length()) {
             char ch = s.charAt(right);
             window[ch]++;   // 统计当前窗口中每个字符出现次数
+            right++;
             // 当这个字符是在t中，并且t需要的次数大于等于该字符在滑动窗口出现的次数，被确定为候选字符
             if (target[ch] > 0 && target[ch]  >= window[ch])
                 count++;
@@ -32,14 +33,13 @@ public class Solution_76 {
                     count--;
                 }
                 // 更新结果
-                if ((right - left) + 1 < minLen){
+                if ((right - left)< minLen){
                     minLen = (right - left) + 1;  // 当前窗口大小
-                    res = s.substring(left, right + 1);
+                    res = s.substring(left, right);
                 }
                 window[ch]--;
                 left++;
             }
-            right++;
         }
         return res;
     }
