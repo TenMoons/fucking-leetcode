@@ -23,6 +23,7 @@ public class Solution_438 {
         while (right < s.length()) {
             char ch = s.charAt(right);
             window[ch]++;   // 统计当前窗口中每个字符出现次数
+            right++;
             // 当这个字符是在t中，并且t需要的次数大于等于该字符在滑动窗口出现的次数，被确定为候选字符
             if (target[ch] > 0 && target[ch]  >= window[ch])
                 count++;
@@ -34,13 +35,12 @@ public class Solution_438 {
                     count--;
                 }
                 // 更新结果
-                if ((right - left) + 1 == t_Len){
+                if ((right - left) == t_Len){
                     res.add(left);  // 当前子串的起始索引加入列表
                 }
                 window[ch]--;
                 left++;
             }
-            right++;
         }
         return res;
     }
