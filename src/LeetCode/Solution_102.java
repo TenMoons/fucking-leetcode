@@ -33,30 +33,19 @@ public class Solution_102 {
 
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
-        int levelNum = 1;
-
         while(!queue.isEmpty()){
-
-            int newLevelNum = 0;
             ArrayList<Integer> level = new ArrayList<>();
-            for(int i = 0; i < levelNum; i ++){
+            int size = queue.size();
+            for(int i = 0; i < size; i ++){
                 TreeNode node = queue.remove();
                 level.add(node.val);
-
-                if(node.left != null){
+                if(node.left != null)
                     queue.add(node.left);
-                    newLevelNum ++;
-                }
-                if(node.right != null){
+                if(node.right != null)
                     queue.add(node.right);
-                    newLevelNum ++;
-                }
             }
-
             res.add(level);
-            levelNum = newLevelNum;
         }
-
         return res;
     }
 
