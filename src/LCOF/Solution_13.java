@@ -25,7 +25,7 @@ public class Solution_13 {
         for (int[] dir : dirs) {
             int nextX = x + dir[0];
             int nextY = y + dir[1];
-            if (nextX >= 0 && nextX < m && nextY >= 0 && nextY < n && visited[nextX][nextY] == false &&
+            if (nextX >= 0 && nextX < m && nextY >= 0 && nextY < n && !visited[nextX][nextY] &&
             countSum(nextX, nextY) <= k) {
                 visited[nextX][nextY] = true;
                 res++;
