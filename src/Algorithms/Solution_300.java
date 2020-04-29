@@ -9,7 +9,7 @@ import java.util.TreeSet;
 
 public class Solution_300 {
     public int lengthOfLIS(int[] nums) {
-        // 动态规划求解
+        // 动态规划求解O(N^2)
         if (nums.length == 0)
             return 0;
         int[] dp = new int[nums.length];
