@@ -66,18 +66,6 @@ public class Solution_1 {
                 minVal = minVal * 10 + curVal;
             }
         }
-//        System.out.println("max="+maxVal);
-//        System.out.println("min="+minVal);
         return maxVal - minVal;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution_1().maxDiff(555));
-        System.out.println(new Solution_1().maxDiff(123456));
-        System.out.println(new Solution_1().maxDiff(10000));
-        System.out.println(new Solution_1().maxDiff(9288));
-        System.out.println(new Solution_1().maxDiff(99999));
-        System.out.println(new Solution_1().maxDiff(1101057));
-        System.out.println(new Solution_1().maxDiff(9));
     }
 }

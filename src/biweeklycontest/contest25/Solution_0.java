@@ -20,16 +20,4 @@ public class Solution_0 {
         }
         return res;
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution_0().kidsWithCandies(new int[] {
-                2,3,5,1,3
-        }, 3));
-        System.out.println(new Solution_0().kidsWithCandies(new int[] {
-                4,2,1,1,2
-        }, 1));
-        System.out.println(new Solution_0().kidsWithCandies(new int[] {
-                12,1,12
-        }, 10));
-    }
 }
