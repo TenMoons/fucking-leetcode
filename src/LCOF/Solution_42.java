@@ -1,6 +1,10 @@
-package Algorithms;
+package LCOF;
 
-public class Solution_53 {
+/**
+ * 面试题42. 连续子数组的最大和
+ */
+
+public class Solution_42 {
     public int maxSubArray(int[] nums) {
         int maxSubSum = Integer.MIN_VALUE;
         int curSum = 0;
