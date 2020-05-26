@@ -26,8 +26,6 @@ public class Solution_160 {
             n--;
             cur2 = cur2.next;
         }
-        if(cur1 != cur2)
-            return null;
         // 定位长链表
         cur1 = n > 0 ? headA : headB;  // 较长链表的头结点
         cur2 = cur1 == headA ? headB : headA;  // 较短链表的头结点
