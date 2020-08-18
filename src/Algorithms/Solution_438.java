@@ -10,36 +10,45 @@ import java.util.List;
 public class Solution_438 {
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> res = new ArrayList<>();
-        // 初始化
-        int[] target = new int[128];  // 统计t中每个字符出现次数
-        int[] window = new int[128];  // 统计滑动窗口中每个字符出现次数
-        for (char ch : p.toCharArray())   // 统计t中每个字符出现次数
-            target[ch]++;
-        int left = 0, right = 0;
-        int t_Len = p.length();
-        int count = 0;   // 候选字符数
-
-        // 滑动窗口
+        int[] target = new int[26];
+        int[] window = new int[26];
+        int len = 0;
+        for (char c : p.toCharArray()) {
+            target[c - 'a']++;
+        }
+        for (int v : target) {
+            if (v != 0) {
+                len++;
+            }
+        }
+        int left = 0, right = 0, valid = 0;
         while (right < s.length()) {
-            char ch = s.charAt(right);
-            window[ch]++;   // 统计当前窗口中每个字符出现次数
+            // 扩大窗口
+            char c = s.charAt(right);
             right++;
-            // 当这个字符是在t中，并且t需要的次数大于等于该字符在滑动窗口出现的次数，被确定为候选字符
-            if (target[ch] > 0 && target[ch]  >= window[ch])
-                count++;
-            //当前窗口已包含子串，开始缩小窗口，更新结果
-            while (count == t_Len){
-                // 确定窗口
-                ch = s.charAt(left);
-                if (target[ch] > 0 && target[ch]  >= window[ch]){
-                    count--;
+            int temp = c - 'a';
+            // c是目标字符
+            if (target[temp] != 0) {
+                window[temp]++;
+                if (window[temp] == target[temp]) {
+                    valid++;
                 }
-                // 更新结果
-                if ((right - left) == t_Len){
-                    res.add(left);  // 当前子串的起始索引加入列表
+            }
+            // 收缩窗口
+            while (right - left >= p.length()) {
+                if (valid == len) {
+                    res.add(left);
                 }
-                window[ch]--;
+                char d = s.charAt(left);
                 left++;
+                int tmp = d - 'a';
+                if (target[tmp] != 0) {
+                    // 窗口中目标字符减少
+                    if (window[tmp] == target[tmp]) {
+                        valid--;
+                    }
+                    window[tmp]--;
+                }
             }
         }
         return res;
