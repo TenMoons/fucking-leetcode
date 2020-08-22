@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Explore/Explore.iml" filepath="$PROJECT_DIR$/Explore/Explore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCCI/LCCI.iml" filepath="$PROJECT_DIR$/LCCI/LCCI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCOF/LCOF.iml" filepath="$PROJECT_DIR$/LCOF/LCOF.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeeklyContest/WeeklyContest.iml" filepath="$PROJECT_DIR$/WeeklyContest/WeeklyContest.iml" />
     </modules>
   </component>
 </project>
