@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 /**
  * 面试题20. 表示数值的字符串
  */
@@ -36,5 +38,40 @@ public class Solution_20 {
             }
         }
         return hasNumber;
+    }
+
+    // DFA解法
+    public boolean isNumber2(String s) {
+        HashMap[] states = {
+                new HashMap<Character, Integer>() {{put(' ', 0); put('s', 1); put('.', 4); put('d', 2);}},
+                new HashMap<Character, Integer>() {{put('d', 2); put('.', 4);}},
+                new HashMap<Character, Integer>() {{put('d', 2); put('.', 3); put('e', 5); put(' ', 8);}},
+                new HashMap<Character, Integer>() {{put('d', 3); put('e', 5); put(' ', 8);}},
+                new HashMap<Character, Integer>() {{put('d', 3);}},
+                new HashMap<Character, Integer>() {{put('s', 6); put('d', 7);}},
+                new HashMap<Character, Integer>() {{put('d', 7);}},
+                new HashMap<Character, Integer>() {{put('d', 7); put(' ', 8);}},
+                new HashMap<Character, Integer>() {{put(' ', 8);}}
+        };
+        int cur = 0;  // 初始状态
+        char t = ' ';  // 遇到的字符种类
+        for (char c : s.toCharArray()) {
+            if (c >= '0' && c <= '9') {
+                t = 'd';
+            } else if (c == '+' || c == '-') {
+                t = 's';
+            } else if (c == 'e' || c == 'E') {
+                t = 'e';
+            } else if (c == '.' || c == ' ') {
+                t = c;
+            } else {
+                t = 'o';  // other
+            }
+            if (!states[cur].containsKey(t)) {
+                return false;
+            }
+            cur = (int)states[cur].get(t);
+        }
+        return cur == 2 || cur == 3 || cur == 7 || cur == 8;
     }
 }

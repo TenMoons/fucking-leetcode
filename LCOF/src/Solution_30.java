@@ -17,9 +17,7 @@ public class Solution_30 {
 
         public void push(int x) {
             data.push(x);
-            if (min.isEmpty()) {
-                min.push(x);
-            } else if (min.peek() > x) {
+            if (min.isEmpty() || min.peek() >= x) {
                 min.push(x);
             }
         }
