@@ -1,411 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e4d7f8-b191-43ab-8610-aba6a160ad7b" name="Default Changelist" comment="Add solutions">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1456.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explore/Explore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explore/src/bytedance/string/Solution_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explore/src/bytedance/string/Solution_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explore/src/bytedance/string/Solution_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explore/src/bytedance/string/Solution_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/Interview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCCI/LCCI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCCI/src/Solution_1718.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LCOF/LCOF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeeklyContest/WeeklyContest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="64e4d7f8-b191-43ab-8610-aba6a160ad7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_496.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_705.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_977.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1013.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1014.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_102.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_103.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_103.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1035.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1035.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_104.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_105.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_105.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_106.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_107.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1071.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1071.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1079.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1079.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_108.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_108.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_109.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_109.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1091.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1091.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1095.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1095.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1103.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1103.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1111.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_112.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_113.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_114.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1143.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_116.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_116.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1160.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1162.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_117.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_117.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_121.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_122.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_123.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1248.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1248.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_128.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_129.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_129.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_130.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_130.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1319.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1319.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_136.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_137.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_137.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1371.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1371.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_141.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1431.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_144.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_144.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_145.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_146.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_146.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_147.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_147.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_150.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_150.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_152.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_153.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_153.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_154.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_154.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_155.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_155.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_160.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_171.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_173.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_173.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_188.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_188.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_190.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_190.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_191.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_191.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_198.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_199.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_199.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_202.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_202.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_203.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_203.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_207.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_207.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_210.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_210.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_211.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_211.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_213.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_217.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_221.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_221.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_222.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_222.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_225.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_225.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_226.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_230.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_230.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_231.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_231.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_232.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_233.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_233.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_235.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_235.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_236.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_239.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_242.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_257.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_260.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_260.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_263.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_264.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_264.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_274.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_274.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_275.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_275.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_278.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_287.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_287.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_289.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_289.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_297.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_297.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_300.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_303.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_307.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_307.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_309.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_309.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_322.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_322.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_337.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_338.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_343.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_343.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_347.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_357.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_357.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_365.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_365.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_374.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_374.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_376.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_376.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_378.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_378.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_394.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_394.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_401.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_401.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_404.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_406.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_406.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_409.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_409.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_410.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_410.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_424.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_424.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_429.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_429.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_435.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_435.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_437.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_437.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_438.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_445.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_445.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_449.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_449.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_450.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_450.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_452.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_452.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_455.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_455.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_501.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_501.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_508.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_508.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_513.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_513.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_516.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_516.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_518.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_518.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_526.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_526.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_54.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_542.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_542.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_543.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_560.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_567.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_567.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_572.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_572.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_589.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_589.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_590.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_590.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_60.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_621.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_621.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_630.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_630.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_65.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_658.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_658.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_677.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_677.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_680.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_680.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_684.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_684.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_69.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_695.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_695.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_714.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_714.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_718.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_72.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_721.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_721.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_75.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_752.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_752.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_76.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_763.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_763.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_77.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_773.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_773.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_78.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_784.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_784.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_785.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_785.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_804.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_804.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_81.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_81.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_820.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_820.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_836.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_836.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_84.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_860.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_860.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_861.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_861.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_876.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_876.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_88.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_88.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_887.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_887.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_892.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_892.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_90.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_90.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_912.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_912.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_914.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_914.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_945.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_945.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_946.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_946.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_95.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_959.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_959.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_96.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_967.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_967.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_968.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_968.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_969.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_969.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_974.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_974.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_983.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_983.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_986.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_986.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_990.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_990.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_994.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_994.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Solution_999.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_999.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/arrayandstring/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/arrayandstring/Solution_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/linkedlist/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/linkedlist/Solution_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explore/queueandstack/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/src/queueandstack/Solution_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCCI/Solution_0106.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCCI/src/Solution_0106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCCI/Solution_0107.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCCI/src/Solution_0107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCCI/Solution_0811.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCCI/src/Solution_0811.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCCI/Solution_1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCCI/src/Solution_1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCCI/Solution_1707.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCCI/src/Solution_1707.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCCI/Solution_1716.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCCI/src/Solution_1716.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_10_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_10_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_10_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_14_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_14_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_14_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_14_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_32_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_32_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_32_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_32_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_32_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_32_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_43_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_43_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_48.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_52.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_53_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_53_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_53_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_53_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_54.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_55_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_55_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_55_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_55_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_56_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_56_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_57.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_57_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_57_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_58_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_58_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_58_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_58_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_59.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_59_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_59_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_62.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_63.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_64.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_65.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_66.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_68_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_68_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_68_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_68_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCOF/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biweeklycontest/contest25/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyContest/src/contest25/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biweeklycontest/contest25/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyContest/src/contest25/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biweeklycontest/contest25/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyContest/src/contest25/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biweeklycontest/contest25/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyContest/src/contest25/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview1/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview1/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview1/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview1/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview1/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview1/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview2/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview2/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview2/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview2/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview3/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview3/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview3/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview3/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview3/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview3/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview4/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview4/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview4/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview4/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview4/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview4/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview5/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview5/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview5/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview5/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview6/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview6/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview6/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview6/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview7/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview7/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview7/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview7/Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview7/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview7/Solution_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview8/Solution_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview8/Solution_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview8/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview8/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/interview9/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/interview9/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weeklycontest/contest186/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyContest/src/contest186/Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weeklycontest/contest186/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyContest/src/contest186/Solution_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/Solution_239.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_239.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LCOF/src/Solution_32_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_32_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,80 +63,50 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NowCoder" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MyCode\JavaCode\LeetCode\WeeklyContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_4">
-    <configuration name="Solution_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview8.Solution_0" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_1718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_1718" />
-      <module name="LCCI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_283" />
+  <component name="RunManager" selected="Application.Solution_1399">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bytedance.string.Solution_4" />
-      <module name="Explore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bytedance.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Solution_1399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_1399" />
+      <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_58_1" />
-      <module name="LCOF" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Solution_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_24" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_416" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_416" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_502" />
+      <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -599,20 +175,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution_58_1" />
-      <item itemvalue="Application.Solution_283" />
-      <item itemvalue="Application.Solution_0" />
-      <item itemvalue="Application.Solution_1718" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution_502" />
+      <item itemvalue="Application.Solution_416" />
+      <item itemvalue="Application.Solution_24" />
+      <item itemvalue="Application.Solution_1399" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.53" />
-      <item itemvalue="Application.Solution_4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution_4" />
-        <item itemvalue="Application.Solution_1718" />
-        <item itemvalue="Application.Solution_0" />
-        <item itemvalue="Application.Solution_283" />
-        <item itemvalue="Application.Solution_58_1" />
+        <item itemvalue="Application.Solution_1399" />
+        <item itemvalue="Application.Solution_24" />
+        <item itemvalue="Application.Solution_416" />
+        <item itemvalue="Application.Solution_502" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -758,21 +334,34 @@
       <workItem from="1597906789973" duration="622000" />
       <workItem from="1598012845362" duration="1016000" />
       <workItem from="1598064148174" duration="612000" />
-      <workItem from="1598079930641" duration="6560000" />
-    </task>
-    <task id="LOCAL-00133" summary="Add solutions for weekly contest 186">
-      <created>1587978508144</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1587978508144</updated>
-    </task>
-    <task id="LOCAL-00134" summary="Add solutions 33/969/986">
-      <created>1587978542258</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1587978542258</updated>
+      <workItem from="1598079930641" duration="6792000" />
+      <workItem from="1598182300569" duration="366000" />
+      <workItem from="1598241907747" duration="16000" />
+      <workItem from="1598272679673" duration="2073000" />
+      <workItem from="1598609870721" duration="5490000" />
+      <workItem from="1598792619532" duration="2359000" />
+      <workItem from="1598798156217" duration="918000" />
+      <workItem from="1598841135940" duration="69000" />
+      <workItem from="1598873455878" duration="610000" />
+      <workItem from="1598924605153" duration="21000" />
+      <workItem from="1599826562078" duration="1318000" />
+      <workItem from="1599878452865" duration="1510000" />
+      <workItem from="1599914369857" duration="1219000" />
+      <workItem from="1599963438183" duration="4981000" />
+      <workItem from="1601967147507" duration="5602000" />
+      <workItem from="1602034736191" duration="2625000" />
+      <workItem from="1602055777442" duration="21000" />
+      <workItem from="1602074600958" duration="1099000" />
+      <workItem from="1602123962056" duration="21000" />
+      <workItem from="1602138501768" duration="1315000" />
+      <workItem from="1602332315154" duration="709000" />
+      <workItem from="1602379245417" duration="4053000" />
+      <workItem from="1602504698549" duration="675000" />
+      <workItem from="1602550033637" duration="5150000" />
+      <workItem from="1602681109693" duration="1200000" />
+      <workItem from="1602823615976" duration="50000" />
+      <workItem from="1602832169858" duration="1404000" />
+      <workItem from="1606138586831" duration="4229000" />
     </task>
     <task id="LOCAL-00135" summary="Add solutions 25/130/990">
       <created>1587997275763</created>
@@ -1103,7 +692,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597742499855</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Modify project structure">
+      <created>1598087419532</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1598087419534</updated>
+    </task>
+    <task id="LOCAL-00183" summary="Modify project structure">
+      <created>1602044237087</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1602044237088</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1150,7 +753,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Add solutions LCOF 9/10-1/10-2/11/12/14-1" />
     <MESSAGE value="Add solution 45" />
     <MESSAGE value="Add solutions LCOF 14-2/25" />
     <MESSAGE value="modify solution 50" />
@@ -1175,76 +777,99 @@
     <MESSAGE value="Add solution 84" />
     <MESSAGE value="Add solutions 15/1014/1300" />
     <MESSAGE value="Add solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solutions" />
+    <MESSAGE value="Modify project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify project structure" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1590635371456">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1598798177945">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590635371456" />
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598798177945" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1602832240350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602832240350" />
     <state x="2493" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598080517786">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
     <state x="2493" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598080517786" />
-    <state x="2428" y="0" width="960" height="824" key="CommitChangelistDialog2" timestamp="1597751246056">
+    <state x="508" y="0" width="960" height="824" key="CommitChangelistDialog2" timestamp="1602044235543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2428" y="0" width="960" height="824" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087413502" />
+    <state x="508" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602044235543" />
+    <state x="2426" y="98" key="FileChooserDialogImpl" timestamp="1598087488584">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state x="2428" y="0" width="960" height="824" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1597751246056" />
-    <state x="423" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1593780117899" />
-    <state x="2670" y="82" width="800" height="904" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593515961129" />
-    <state x="2552" y="124" key="FileChooserDialogImpl" timestamp="1594639893862">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2426" y="98" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087488584" />
+    <state width="1237" height="319" key="GridCell.Tab.0.bottom" timestamp="1602682313903">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1589802515256" />
-    <state x="2552" y="124" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594639893862" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1598086993162">
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837041" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
+    <state width="1237" height="319" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.0.center" timestamp="1602682313903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837041" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
+    <state width="1237" height="319" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.0.left" timestamp="1602682313903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837040" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
+    <state width="1237" height="319" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.0.right" timestamp="1602682313903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837041" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
+    <state width="1237" height="319" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.1.bottom" timestamp="1602682313904">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602682313904" />
+    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.1.center" timestamp="1602682313903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
+    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.1.left" timestamp="1602682313903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
+    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state width="1237" height="319" key="GridCell.Tab.1.right" timestamp="1602682313904">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="319" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602682313904" />
+    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
+    <state x="2255" y="80" width="914" height="707" key="SettingsEditor" timestamp="1606138666794">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598086993162" />
-    <state width="1237" height="265" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1590637055304" />
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591327137819" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1598086993162">
+    <state x="2255" y="80" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1606138666794" />
+    <state x="335" y="80" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601970730968" />
+    <state x="2062" y="145" width="814" height="505" key="Vcs.Push.Dialog.v2" timestamp="1598087427957">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598086993162" />
-    <state width="1237" height="265" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1590637055304" />
-    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591327137819" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1598086993162">
+    <state x="2062" y="145" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087427957" />
+    <state x="67" y="2" key="new project wizard" timestamp="1602055795848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="56" y="2" key="new project wizard/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598841191530" />
+    <state x="2146" y="45" key="new project wizard/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598279295038" />
+    <state x="67" y="2" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602055795848" />
+    <state x="2284" y="2" width="807" height="822" key="search.everywhere.popup" timestamp="1599827275862">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598086993162" />
-    <state width="1237" height="265" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1590637055304" />
-    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591327137819" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1598086993162">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598086993162" />
-    <state width="1237" height="265" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1590637055304" />
-    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591327137819" />
-    <state x="2255" y="80" width="914" height="707" key="SettingsEditor" timestamp="1597742287209">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2255" y="80" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1597742287209" />
-    <state x="167" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594383314667" />
-    <state x="2584" y="179" width="998" height="708" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594818137840" />
-    <state x="335" y="80" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597734712372" />
-    <state x="2062" y="145" width="814" height="505" key="Vcs.Push.Dialog.v2" timestamp="1597742505468">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2062" y="145" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1597742505468" />
-    <state x="118" y="120" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1593780134640" />
-    <state x="2097" y="184" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591415830859" />
-    <state x="2146" y="45" key="new project wizard" timestamp="1598080560923">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2146" y="45" key="new project wizard/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598080560923" />
-    <state x="2202" y="85" key="new project wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594639918064" />
-    <state x="2284" y="2" width="807" height="822" key="search.everywhere.popup" timestamp="1597750477994">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2284" y="2" width="807" height="822" key="search.everywhere.popup/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1597750477994" />
-    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590725727137" />
+    <state x="2284" y="2" width="807" height="822" key="search.everywhere.popup/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1599827275862" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1259,7 +884,15 @@
           <line>40</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithms/src/Solution_416.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$Solution_502.ic" NAME="Solution_502 Coverage Results" MODIFIED="1601968612930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

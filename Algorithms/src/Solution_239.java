@@ -41,7 +41,7 @@ public class Solution_239 {
             if (queue.peek() <= i - k)
                 queue.poll();
             // 窗口长度为k，保存当前窗口中的最大值
-            if (i +1 >= k) {
+            if (i + 1 >= k) {
                 res[i + 1 - k] = nums[queue.peek()];
             }
         }
