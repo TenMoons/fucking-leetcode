@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e4d7f8-b191-43ab-8610-aba6a160ad7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_416.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_705.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_977.java" afterDir="false" />
+    <list default="true" id="64e4d7f8-b191-43ab-8610-aba6a160ad7b" name="Default Changelist" comment="commit solutions 2021/9/3">
+      <change afterPath="$PROJECT_DIR$/.idea/redis-manager-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_1109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_421.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Solution_993.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCCI/src/Solution_1714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeeklyContest/src/contest241/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/Solution_239.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCOF/src/Solution_32_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF/src/Solution_32_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/Solution_307.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/Solution_307.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +64,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NowCoder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MyCode\JavaCode\LeetCode\WeeklyContest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_1399">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorithms" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest241.Solution" />
+      <module name="WeeklyContest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contest241.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,23 +183,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution_502" />
       <item itemvalue="Application.Solution_416" />
       <item itemvalue="Application.Solution_24" />
       <item itemvalue="Application.Solution_1399" />
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.53" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution_1399" />
         <item itemvalue="Application.Solution_24" />
         <item itemvalue="Application.Solution_416" />
         <item itemvalue="Application.Solution_502" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -361,28 +370,20 @@
       <workItem from="1602681109693" duration="1200000" />
       <workItem from="1602823615976" duration="50000" />
       <workItem from="1602832169858" duration="1404000" />
-      <workItem from="1606138586831" duration="4229000" />
-    </task>
-    <task id="LOCAL-00135" summary="Add solutions 25/130/990">
-      <created>1587997275763</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1587997275763</updated>
-    </task>
-    <task id="LOCAL-00136" summary="Add solution 56/1319">
-      <created>1588040791534</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1588040791535</updated>
-    </task>
-    <task id="LOCAL-00137" summary="Add 面试题17.07">
-      <created>1588058175202</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1588058175202</updated>
+      <workItem from="1606138586831" duration="4351000" />
+      <workItem from="1606217232499" duration="4714000" />
+      <workItem from="1606268081125" duration="2299000" />
+      <workItem from="1606274794116" duration="32000" />
+      <workItem from="1607171319206" duration="2660000" />
+      <workItem from="1607301417839" duration="68000" />
+      <workItem from="1607322202179" duration="29000" />
+      <workItem from="1610369985953" duration="2251000" />
+      <workItem from="1610417305814" duration="50000" />
+      <workItem from="1610596103405" duration="1348000" />
+      <workItem from="1617543830886" duration="1081000" />
+      <workItem from="1621129149109" duration="5856000" />
+      <workItem from="1621149705454" duration="78000" />
+      <workItem from="1630634747872" duration="3469000" />
     </task>
     <task id="LOCAL-00138" summary="Add solution 684">
       <created>1588058191602</created>
@@ -706,11 +707,32 @@
       <option name="project" value="LOCAL" />
       <updated>1602044237088</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="commit solutions 2020/11/23">
+      <created>1606145017293</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145017294</updated>
+    </task>
+    <task id="LOCAL-00185" summary="commit solutions 2021/1/11">
+      <created>1610372418803</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1610372418804</updated>
+    </task>
+    <task id="LOCAL-00186" summary="commit solutions 2021/4/4">
+      <created>1617544876373</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1617544876374</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -753,10 +775,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Add solution 45" />
-    <MESSAGE value="Add solutions LCOF 14-2/25" />
-    <MESSAGE value="modify solution 50" />
-    <MESSAGE value="Add solution 65" />
     <MESSAGE value="Add solutions LCOF 15/16/17/18/20/26/27" />
     <MESSAGE value="Add solution 983" />
     <MESSAGE value="Add solutions LCOF 21/22/24/28/29" />
@@ -778,98 +796,12 @@
     <MESSAGE value="Add solutions 15/1014/1300" />
     <MESSAGE value="Add solutions" />
     <MESSAGE value="Modify project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify project structure" />
+    <MESSAGE value="commit solutions 2020/11/23" />
+    <MESSAGE value="commit solutions 2021/1/11" />
+    <MESSAGE value="commit solutions 2021/4/4" />
+    <MESSAGE value="commit solutions 2021/9/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit solutions 2021/9/3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="121" y="0" key="#Project_Structure" timestamp="1598798177945">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="121" y="0" key="#Project_Structure/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598798177945" />
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1602832240350">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602832240350" />
-    <state x="2493" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598080517786">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2493" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598080517786" />
-    <state x="508" y="0" width="960" height="824" key="CommitChangelistDialog2" timestamp="1602044235543">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="2428" y="0" width="960" height="824" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087413502" />
-    <state x="508" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602044235543" />
-    <state x="2426" y="98" key="FileChooserDialogImpl" timestamp="1598087488584">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2426" y="98" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087488584" />
-    <state width="1237" height="319" key="GridCell.Tab.0.bottom" timestamp="1602682313903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837041" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
-    <state width="1237" height="319" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.0.center" timestamp="1602682313903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="164" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837041" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
-    <state width="1237" height="319" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.0.left" timestamp="1602682313903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="164" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837040" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
-    <state width="1237" height="319" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.0.right" timestamp="1602682313903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="164" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598795837041" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087491713" />
-    <state width="1237" height="319" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.1.bottom" timestamp="1602682313904">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="319" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602682313904" />
-    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.1.center" timestamp="1602682313903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="319" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
-    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.1.left" timestamp="1602682313903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="319" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602682313903" />
-    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state width="1237" height="319" key="GridCell.Tab.1.right" timestamp="1602682313904">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="319" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602682313904" />
-    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601992555936" />
-    <state x="2255" y="80" width="914" height="707" key="SettingsEditor" timestamp="1606138666794">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2255" y="80" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1606138666794" />
-    <state x="335" y="80" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601970730968" />
-    <state x="2062" y="145" width="814" height="505" key="Vcs.Push.Dialog.v2" timestamp="1598087427957">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2062" y="145" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598087427957" />
-    <state x="67" y="2" key="new project wizard" timestamp="1602055795848">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="56" y="2" key="new project wizard/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1598841191530" />
-    <state x="2146" y="45" key="new project wizard/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1598279295038" />
-    <state x="67" y="2" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602055795848" />
-    <state x="2284" y="2" width="807" height="822" key="search.everywhere.popup" timestamp="1599827275862">
-      <screen x="1920" y="0" width="1536" height="824" />
-    </state>
-    <state x="2284" y="2" width="807" height="822" key="search.everywhere.popup/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1599827275862" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
